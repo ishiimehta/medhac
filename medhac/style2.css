@@ -1,0 +1,12 @@
+@font-face{
+	font-family: 'FarmhouseDreams';
+	src: url(font/FarmhouseDreams-Script.ttf);
+	font-style: normal;
+	
+}
+
+p{
+	font-family: FarmhouseDreams;
+	font-size: 100px;
+	margin:14px 10px;
+}
